@@ -1,8 +1,19 @@
-<h1 align="center">Hiddify, All you need for an unrestricted internet</h1>
+<h1 align="center">Hiddify, Internet Freedom Solution</h1>
+<h2 align="center">All you need for an unrestricted internet</h2>
+
 
 
 ## Introduction
 <!-- Copy-paste in your Readme.md file -->
+**Hiddify** is an anti-censorship platform designed to provide secure, private, and seamless access to unrestricted internet content. This open-source project offers both a management panel (**HiddifyManager**) and a versatile client (**HiddifyApp**) to facilitate reliable internet access across platforms, including Windows, Android, iOS, macOS, and Linux.
+
+The **HiddifyManager** is a multi-user, easy-to-install management tool that supports over 20 protocols such as Reality, Trojan, and Shadowsocks, optimized for countries with high censorship like Iran, China, and Russia. It includes smart features like auto-updates, backups, and Cloudflare integration to ensure a stable connection and user convenience. Additionally, it supports multi-domain configurations, advanced user management, and protocol adjustments for better privacy.
+
+**HiddifyApp** is a companion proxy client that supports major proxy protocols like Vless, Vmess, TUIC, Hysteria, and Reality, enabling easy internet access on any device. It comes with advanced features, including automatic node selection, dark/light mode options, and easy profile management, while ensuring privacy and avoiding advertisements.
+
+Together, **Hiddify-Manager** and **HiddifyApp** form a robust and user-friendly anti-filtering solution accessible worldwide, aimed at simplifying access to a free and open internet for all users, especially those in restricted regions.
+
+In addition to our primary tools, we offer complementary components like **Hiddify-Reality-Scanner**, **Hiddify-Awesome-Freedom**, and **Hiddify-Relay-Builder**, each designed to enhance and support one another, creating a comprehensive ecosystem for unrestricted internet access. To explore Hiddify’s open-source projects, detailed documentation is available on our GitHub repository, or you can visit hiddify.com for further guidance on using and configuring these tools effectively.
 
 ## Last Year Metrics 
 
