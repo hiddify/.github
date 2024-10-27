@@ -1,4 +1,7 @@
+<div align=center>
+
 ![Hiddify Logo](https://user-images.githubusercontent.com/125398461/227777845-a4d0f86b-faa2-4f2b-a410-4aa5f68bfe19.png)
+</div>
 
 <h1 align="center">Hiddify, Internet Freedom Solution</h1>
 <h2 align="center">All you need for an unrestricted internet</h2>
