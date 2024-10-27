@@ -9,7 +9,6 @@
 
 
 ## Introduction
-<!-- Copy-paste in your Readme.md file -->
 **Hiddify** is an anti-censorship platform designed to provide secure, private, and seamless access to unrestricted internet content. This open-source project offers both a management panel (**HiddifyManager**) and a versatile client (**HiddifyApp**) to facilitate reliable internet access across platforms, including Windows, Android, iOS, macOS, and Linux.
 
 The **HiddifyManager** is a multi-user, easy-to-install management tool that supports over 20 protocols such as Reality, Trojan, and Shadowsocks, optimized for countries with high censorship like Iran, China, and Russia. It includes smart features like auto-updates, backups, and Cloudflare integration to ensure a stable connection and user convenience. Additionally, it supports multi-domain configurations, advanced user management, and protocol adjustments for better privacy.
@@ -23,52 +22,18 @@ In addition to our primary tools, we offer complementary components like **Hiddi
 ## Last Year Metrics 
 
 
-<!-- Copy-paste in your Readme.md file -->
+<!-- Statisctics of stars earned during last year -->
+<div align=center>
+  
 <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stars?owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=2x6&color_scheme=dark" width="561" height="auto">
     <img alt="Overview of Stars earned of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stars/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=2x6&color_scheme=light" width="561" height="auto">
   </picture>
 </a>
-<!-- Copy-paste in your Readme.md file -->
+<br>
+<!-- Where are those stagazers located -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=4x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Top repos by stars of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=4x5&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=repos&owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=126981719&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active repos of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=126981719&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months&image_size=3x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Issues closed ratio of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months&image_size=3x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
 
 <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-map?activity=stars&role=stars&owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
@@ -78,4 +43,38 @@ In addition to our primary tools, we offer complementary components like **Hiddi
 </a>
 
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<!-- Top repos -->
+  
+<a href="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos?owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=4x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Top repos by stars of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-stars-top-repos/thumbnail.png?owner_id=126981719&period=past_12_months&image_size=4x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Active repos -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=repos&owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=126981719&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
+    <img alt="Active repos of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&owner_id=126981719&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
+
+
+
+<!-- Issue closed ratio -->
+
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months&image_size=3x3&color_scheme=dark" width="273" height="auto">
+    <img alt="Issues closed ratio of hiddify" src="https://next.ossinsight.io/widgets/official/compose-org-productivity-ratio/thumbnail.png?activity=issues%2Fclosed&owner_id=126981719&period=past_12_months&image_size=3x3&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
+
+</div>
+
+
